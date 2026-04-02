@@ -18,4 +18,4 @@ Note that I can more nicely format that link [like this](https://www.markdowngui
 
 That's all folks! 
 
-THat was a looney toones reference. 
+That was a looney toons reference. 
